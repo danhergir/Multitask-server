@@ -1,7 +1,3 @@
-
-
-
-
 # Overview
 
 This is multitasking server built with Rust with different modules, allowing the use of threads and serving HTML in the browser.
