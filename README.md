@@ -6,7 +6,7 @@ The purpose of this project is to learn more about Rust and the special things t
 
 Rust aims to be a language with very good support for concurrency and flexible parallelism, allowing powerful APIs without losing any guarantee of thread safety (or memory safety).
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/e-HYEofAWJY)
 
 # Development Environment
 
